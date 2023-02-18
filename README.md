@@ -28,6 +28,5 @@
   </div>
   
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiamloaiza&show_icons=true&theme=transparent)
- 
+
  ##
